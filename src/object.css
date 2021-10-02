@@ -1,0 +1,62 @@
+.objTitle{
+    margin-top: 60px;
+    color: white;
+    font-family: 'Bungee', monospace;
+}
+.locationHead{
+    margin-top: 4px;
+    color: #3B0F68;
+    font-family: 'Bungee', monospace;
+}
+.locationText{
+    font-family: 'Share Tech Mono', monospace;
+}
+.desertPic{
+    margin-bottom: 25px;
+    align-items: center;
+    display: flex;
+}
+
+.cardTasks{
+margin-top: 2px;
+}
+.taskTitle{
+    margin-top: 20px;
+    color:white;
+    font-family: 'Bungee', monospace;
+}
+.cardTitleTask{
+    font-family: 'Share Tech Mono', monospace;
+}
+.cardTextOne{
+    font-family: 'Share Tech Mono', monospace;
+}
+.cardTextTwo{
+    font-family: 'Share Tech Mono', monospac
+}
+.goalImg{
+    width: 539px;
+    height: 250px;
+    margin-bottom: 8px;
+}
+.goalCard{
+    /* margin-bottom: 85px; */
+    margin-top: 30px;
+}
+.goalTitle{
+    display: flex;
+    margin-top: 8px;
+    color: #3B0F68;
+    font-family: 'Bungee', monospace;
+}
+.goalText{
+    font-family: 'Share Tech Mono', monospac
+}
+.hangarLink{
+    margin-bottom: 85px;
+    color: white;
+    top: 1537px;
+    left: 1266px;
+    padding-right: 50px !important;
+    font-family: 'Share Tech Mono', monospac
+}

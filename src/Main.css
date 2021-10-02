@@ -1,0 +1,60 @@
+.mainLogo{
+margin-top: 7% !important;
+align-items: center;
+top: 70px;
+margin-left: 450px;
+width: 403px;
+height: 195px;
+opacity: 1;
+}
+.welcomeTitle{
+padding-top: 10px;
+color: white;
+font-size: 48px;
+/* font-weight: 80px; */
+font-family: 'Bungee', monospace;
+text-align: center;
+justify-content: center;
+}
+.smallP{
+    margin-left: 30%;
+    color: #FFFFFF;
+font-family: 'Share Tech Mono', monospace;
+text-align: center;
+top: 329px;
+width: 500px !important;
+height: 54px;
+margin-bottom: 4%;
+}
+.scrollCard{
+    margin-top: 4%;
+    width: 900px;
+height: 420px;
+}
+.contractTitle{
+color:black;
+font-family: 'Bungee', monospace;
+font-size: 26px;
+
+}
+.cardBody{
+    font-family: 'Share Tech Mono', monospace;
+    overflow-y: scroll;
+}
+.agreeBtn{
+margin-top: 3;
+margin-left: 40% !important;
+align-items: center;
+justify-content: center;
+width: 75px;
+height: 38px;
+}
+.agreeBtn{
+    background: #8000FF !important;
+}
+.modalBody{
+    font-family: 'Share Tech Mono', monospace;
+}
+.modalTitle{
+    font-family: 'Share Tech Mono', monospace;
+}

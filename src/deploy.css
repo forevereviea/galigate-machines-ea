@@ -1,0 +1,21 @@
+.deployTitle{
+    margin-top: 100px;
+    justify-content: center !important;
+    font-family: 'Bungee', monospace;
+    color: white;
+}
+.successCard{
+    width: 1140px;
+height: 75px;
+}
+.successText{
+    font-family: 'Share Tech Mono', monospace;
+}
+.mainLogoDeploy{
+    align-content: center !important;
+    margin-left: 350px !important;
+    justify-content: center !important;
+    margin-top: 35px;
+    width: 403px;
+height: 195px;
+}

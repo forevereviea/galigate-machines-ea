@@ -1,0 +1,148 @@
+.hangarTitle{
+padding-top: 40px;
+font-size: 48px;
+text-align: left;
+font: normal normal normal 48px/122px Bungee;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.hangCardOne{
+top: 188px;
+left: 409px;
+width: 1103px;
+height: 126px;
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-141414);
+letter-spacing: 0px;
+color: #141414;
+        
+    }
+.pilotForm{
+top: 384px;
+left: 389px;
+width: 1140px;
+height: 399px;
+background: var(--unnamed-color-faf9ff) 0% 0% no-repeat padding-box;
+background: #FAF9FF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 5px #00000029;
+opacity: 1;
+}
+.hangarCard1Text{
+    font-family: 'Share Tech Mono', monospace;
+}
+.pilotAccordion{
+    color: #3B0F68 !important;
+    font-family: 'Bungee', monospace;
+}
+.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
+.skillsCard{
+    border: 1px solid #3B0F68 !important; 
+}
+.saveRequestBtn{
+    background-color: #8000FF;
+    margin-top: 16px;
+}
+.chooseMaps{
+    font-family: 'Share Tech Mono', monospace;
+}
+.chooseTwo{
+font-family: 'Share Tech Mono', monospace;
+font-size: 12px;
+}
+.mapsCards{
+    width: 459px;
+    height: 224px;
+    border: 1px solid #3B0F68 !important;
+}
+.mapCardText{
+    font-family: 'Share Tech Mono', monospace;
+}
+.accordions{
+    margin-top: 2%;
+}
+.placeHolders{
+    font-family: 'Share Tech Mono', monospace;
+}
+.botBackground{
+position: absolute;
+position: relative;
+top: 0;
+left: 0;
+border-radius: 5px #8000FF ;
+}
+.defaultArms{
+position: relative;
+position: absolute;
+top: 0;
+left: 0;
+    /* top: 30px;
+    left: 30px; */
+border: 1px #8000FF ;
+}
+.defaultBody{
+position: relative;
+position: absolute;
+top: 0;
+left: 0;
+border: 1px #8000FF ;
+}
+.parent{
+    margin-bottom: 14px;
+}
+.saveBotBtn{
+    margin-top: 3px;
+    background-color: #8000FF;
+}
+.customizeHeader{
+    font-family: 'Bungee', monospace;
+}
+.instructionsTitle{
+    color: #3B0F68;
+    font-family: 'Bungee', monospace;
+}
+.instructionText{
+    font-family: 'Share Tech Mono', monospace;
+}
+/* .defaultBtn{
+    margin-top: 5px;
+} */
+.selectBodyTxt{
+    color: #3B0F68;
+    margin-top: 6px;
+    font-family: 'Bungee', monospace;
+}
+.bodyButtons{
+    background-color: #3B0F68;
+}
+.specsText{
+    color: #3B0F68;
+    margin-top: 6px;
+    font-family: 'Bungee', monospace;  
+}
+.selectArmText{
+    color: #3B0F68;
+    margin-top: 6px;
+    font-family: 'Bungee', monospace;
+}
+.deploymentLink{
+    color: #FFFFFF;
+    font-family: 'Share Tech Mono', monospace;
+    margin-bottom: 85px;
+}
+/* .progressBar{
+    margin-bottom: 7px;
+} */
+.progressText{
+    font-family: 'Share Tech Mono', monospace;
+}
